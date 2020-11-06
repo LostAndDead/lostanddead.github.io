@@ -2,4 +2,4 @@
 
 ### Links
 
--   [ VB.NET Tutorial](\VB.NET-Tutorial)
+-   [ VB.NET Tutorial](\vb)
