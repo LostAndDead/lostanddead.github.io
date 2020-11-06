@@ -8,9 +8,8 @@
 ## Index
 
 -   [Setting Up Your Work Environment](.\setting-up-your-work-enviroment "Get Started And Set Things Up!")
--   [Basics Of Visual Studio](\vb.net "NYI")
--   [Command Line](\vb.net "NYI")
-    -   [Hello World](\vb.net "NYI")
+-   Command Line
+    -   [Creating Hello World](.\command-line\creating-hello-world "NYI")
     -   [Varibles](\vb.net "NYI")
     -   [If Statements](\vb.net "NYI")
     -   [Select Statements](\vb.net "NYI")
