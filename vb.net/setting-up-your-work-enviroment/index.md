@@ -18,36 +18,29 @@ Visual Studio is the IDE (Intergrated development enviroment) made by microsoft 
 
 <br/>
 
-1. Downloading Visual Studio
-    - Download Visual Studio from [**this link**](https://visualstudio.com/downloads/), and run the installer
-      <br/>
-    - Which version? Well that varies a bit, but we suggest for most people you download the **Community Edition**
-      <br/>
-      ![Visual Studio Downloads](downloads.png)
-      <br/>
-      <br/>
-    - Once it has downloaded run the file.
-      <br/>
-      ![Run the installer](run.png)
-      <br/>
-      <br/>
-    - Now continue through the standard installation until you get to this window, select the same options as i have bellow \(You may select other options if you require them\)
-      <br/>
-      And then click the `Install` button in the bottom right
-      ![Run the installer](install-options.png)
-      <br/>
-      <br/>
-    - Now you will be asked to sign in and setup your theme (Dark mode best mode!)
-    - And now your done setting up Visual Studio
+-   Download Visual Studio from [**this link**](https://visualstudio.com/downloads/), and run the installer
+    <br/>
+-   Which version? Well that varies a bit, but we suggest for most people you download the **Community Edition**
+    <br/>
+    ![Visual Studio Downloads](downloads.png)
+    <br/>
+    <br/>
+-   Once it has downloaded run the file.
+    <br/>
+    ![Run the installer](run.png)
+    <br/>
+    <br/>
+-   Now continue through the standard installation until you get to this window, select the same options as i have bellow \(You may select other options if you require them\)
+    <br/>
+    And then click the `Install` button in the bottom right
+    ![Run the installer](install-options.png)
+    <br/>
+    <br/>
+-   Now you will be asked to sign in and setup your theme (Dark mode is the best)
+    <br/>
+    <br/>
+-   And now your done setting up Visual Studio
+    <br/>
+    <br/>
 
-<style>
-    .button{
-        color: gray;
-        border: 2px solid #e7e7e7;
-    }
-    .button:hover {
-        background-color: #e7e7e7
-    }
-</style>
-
-<button name="button" onclick="http://www.google.com">Click me</button>
+[» Next Page (Basics Of Visual Studio)](\vb.net\basics-of-visual-studio "Next Page")
