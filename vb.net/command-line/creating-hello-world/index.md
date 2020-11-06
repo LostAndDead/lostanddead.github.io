@@ -1,4 +1,4 @@
-[« Go Back](....\setting-up-your-work-enviroment "Go Back")
+[« Go Back](\vb.net\setting-up-your-work-enviroment "Go Back")
 <br/>
 
 # Creating Hello World

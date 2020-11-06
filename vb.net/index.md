@@ -13,7 +13,7 @@
     -   [Varibles](\vb.net "NYI")
     -   [If Statements](\vb.net "NYI")
     -   [Select Statements](\vb.net "NYI")
--   [GUI](\vb.net "NYI")
+-   GUI
     -   [Text Boxes](\vb.net "NYI")
     -   [Combo Boxes](\vb.net "NYI")
     -   [Buttons](\vb.net "NYI")
