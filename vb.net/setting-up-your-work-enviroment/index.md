@@ -37,3 +37,17 @@ Visual Studio is the IDE (Intergrated development enviroment) made by microsoft 
       ![Run the installer](install-options.png)
       <br/>
       <br/>
+    - Now you will be asked to sign in and setup your theme (Dark mode best mode!)
+    - And now your done setting up Visual Studio
+
+<style>
+    .button{
+        color: gray;
+        border: 2px solid #e7e7e7;
+    }
+    .button:hover {
+        background-color: #e7e7e7
+    }
+</style>
+
+<button name="button" onclick="http://www.google.com">Click me</button>
