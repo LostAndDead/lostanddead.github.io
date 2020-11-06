@@ -6,7 +6,7 @@
 
 <br/>
 
--   [Setting Up Your Work Environment](setting-up-your-work-enviroment.md 'Stop Hovering And Click Me')
+-   [Setting Up Your Work Environment](\Setting-Up-Your-Work-Enviroment 'Stop Hovering And Click Me')
 -   [Basics Of Visual Studio](index.md 'NYI')
 -   [Command Line](index.md 'NYI')
     -   [Hello World](index.md 'NYI')
