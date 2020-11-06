@@ -2,4 +2,4 @@
 
 ### Links
 
--   [ VB.Net Tutorial](https://lostanddead.github.io/vb-tutorial)
+-   [ VB.Net Tutorial](\VB.NET-Tutorial)
