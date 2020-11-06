@@ -1,3 +1,3 @@
 # WIP
 
-[«](\vb 'Go Back')
+[« Go Back](\vb 'Go Back')

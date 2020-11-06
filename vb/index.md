@@ -1,7 +1,6 @@
 # Introduction To [VB.NET](https://docs.microsoft.com/en-us/dotnet/visual-basic/) Programing
 
-[«](\ "Go Back")
-
+[« Go Back](\ "Go Back")
 <br/>
 
 ## Index
