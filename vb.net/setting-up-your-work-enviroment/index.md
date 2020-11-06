@@ -18,9 +18,9 @@ Visual Studio is the IDE (Intergrated development enviroment) made by microsoft 
 
 <br/>
 
--   Download Visual Studio from [**this link**](https://visualstudio.com/downloads/), and run the installer
+-   Download Visual Studio from [**this link**](https://visualstudio.com/downloads/), and run the installer.
     <br/>
--   Which version? Well that varies a bit, but we suggest for most people you download the **Community Edition**
+    Which version? Well that varies a bit, but we suggest for most people you download the **Community Edition**.
     <br/>
     ![Visual Studio Downloads](downloads.png)
     <br/>
@@ -30,16 +30,16 @@ Visual Studio is the IDE (Intergrated development enviroment) made by microsoft 
     ![Run the installer](run.png)
     <br/>
     <br/>
--   Now continue through the standard installation until you get to this window, select the same options as i have bellow \(You may select other options if you require them\)
+-   Now continue through the standard installation until you get to this window, select the same options as I have bellow. \(You may select other options if you require them\)
     <br/>
     And then click the `Install` button in the bottom right
     ![Run the installer](install-options.png)
     <br/>
     <br/>
--   Now you will be asked to sign in and setup your theme (Dark mode is the best)
+-   Now you will be asked to sign in and setup your theme. (Dark mode is the best)
     <br/>
     <br/>
--   And now your done setting up Visual Studio
+-   And now your done setting up Visual Studio!
     <br/>
     <br/>
 
