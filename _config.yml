@@ -1,4 +1,8 @@
-theme: jekyll-theme-hacker
+<<<<<<< HEAD
+theme: jekyll-theme-midnight
 show_downloads: false
 title: LostAndDead
 description: My GitHub Page For Multiple Uses
+=======
+theme: jekyll-theme-midnight
+>>>>>>> 6ed8ce3d127eb4f26091da0822a1de0723859f2c
