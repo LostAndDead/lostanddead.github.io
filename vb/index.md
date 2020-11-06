@@ -7,7 +7,7 @@
 
 ## Index
 
--   [Setting Up Your Work Environment](.\Setting-Up-Your-Work-Enviroment 'Get Started And Set Things Up!')
+-   [Setting Up Your Work Environment](.\setting-up-your-work-enviroment 'Get Started And Set Things Up!')
 -   [Basics Of Visual Studio](index.md 'NYI')
 -   [Command Line](index.md 'NYI')
     -   [Hello World](index.md 'NYI')
