@@ -87,10 +87,22 @@ Say we want to print the value of `x + y` we simply write:
 Console.WriteLine(x + y)
 ```
 
+That gives us this when ran
+
+```
+15
+```
+
 If we want to subtract the 2 numbers then. You guessed it.
 
 ```vb
 Console.WriteLine(x - y)
+```
+
+That gives us this when ran
+
+```
+5
 ```
 
 Here is the full code again that does both in one. (I know, its magic)
