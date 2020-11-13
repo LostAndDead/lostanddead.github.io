@@ -3,7 +3,7 @@
 
 # Creating Hello World
 
-Here I will go over creating an application and showing you different parts of the GUI
+Here I will go over creating a simple console application that greets you with a nice `Hello World!` message. Showing you the basics of creating a project and explaining the pre-populated code.
 
 ### Creating the project
 
@@ -27,5 +27,24 @@ Here I will go over creating an application and showing you different parts of t
    ![Code](code.png)
    <br/>
    <br/>
+   
+Lets take a closer look at the code its given us.
+
+```vb
+Imports System
+
+Module Program
+    Sub Main(args As String())
+        Console.WriteLine("Hello World!")
+    End Sub
+End Module
+```
+
+This is a basic program that will simply print `Hello World!` to the console when run then exit. Rather simple right? Lets see how it works!
+
+Lets start with the enclosing `Module Program` and `End Module` these define the scope of the program and where you can write code for this module. The code you want to run must be in the `Program` module by default. Then within this the Main sub is ran, subs are a way of sorting and re-using code easily. By default the `Main` sub is ran when the program starts. For now all the code you want the program to run will be inside this sub.
+`Console.WriteLine("Hello World!")` is a simple line of code that tells the console to write a line with the text `"Hello World"` to the console window. Once its done this as it has nothing left to do, the program exits.
+
+Now that you understand that we can move on to basic varibles and how to use them!
 
 [» Next Page (Varibles)](..\varibles "Next Page")
