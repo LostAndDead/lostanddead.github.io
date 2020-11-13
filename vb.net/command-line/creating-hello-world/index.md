@@ -45,6 +45,8 @@ This is a basic program that will simply print `Hello World!` to the console whe
 Lets start with the enclosing `Module Program` and `End Module` these define the scope of the program and where you can write code for this module. The code you want to run must be in the `Program` module by default. Then within this the Main sub is ran, subs are a way of sorting and re-using code easily. By default the `Main` sub is ran when the program starts. For now all the code you want the program to run will be inside this sub.
 `Console.WriteLine("Hello World!")` is a simple line of code that tells the console to write a line with the text `"Hello World"` to the console window. Once its done this as it has nothing left to do, the program exits.
 
+To run the program simply press F5 and it will start to compile and run it.
+
 Now that you understand that we can move on to basic varibles and how to use them!
 
 [» Next Page (Varibles)](..\varibles "Next Page")
