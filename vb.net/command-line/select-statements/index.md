@@ -1,4 +1,4 @@
-[« Go Back](..\select-statements "Go Back")
+[« Go Back](..\..\gui\text-boxes "Go Back")
 <br/>
 
 # title
