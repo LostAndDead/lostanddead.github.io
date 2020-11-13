@@ -1,4 +1,4 @@
-[« Go Back](..\..\gui\text-boxes "Go Back")
+[« Go Back](..\if-statements "Go Back")
 <br/>
 
 # title
@@ -7,4 +7,4 @@ info
 
 ### subheader
 
-[» Next Page (next)](path "Next Page")
+[» Next Page (GUI: Text Boxes)](..\..\gui\text-boxes "Next Page")
