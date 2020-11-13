@@ -43,7 +43,7 @@ There are 2 ways to give a varible a value. We can either asign it when its crea
 Dim word As String = "Hello There"
 ```
 
-or we can asign it later.
+or we can asign it later. Doing this uses the `=` operator in Visual Basic this can mean 2 things, it can mean asignment or comparison. In this case it means asignment.
 
 ```vb
 word = "Hello There"
@@ -57,7 +57,7 @@ So lets try running it again.
 Hello There
 ```
 
-And there it is. We have managed to use a basic string varible. Here is the full program code if you got lost.
+And there it is. We have managed to use a basic string varible to print "Hello There" to the console. Here is the full program code if you got lost.
 
 ```vb
 Module Program
@@ -87,7 +87,7 @@ Say we want to print the value of `x + y` we simply write:
 Console.WriteLine(x + y)
 ```
 
-That gives us this when ran
+And when we run that we get exactly what you would think. 10+5=15
 
 ```
 15
@@ -99,13 +99,13 @@ If we want to subtract the 2 numbers then. You guessed it.
 Console.WriteLine(x - y)
 ```
 
-That gives us this when ran
+That gives us this when ran. Exactly what expected
 
 ```
 5
 ```
 
-Here is the full code again that does both in one. (I know, its magic)
+Here is the full code again that does both in one. (I know, its *magic*)
 
 ```vb
 Module Program
