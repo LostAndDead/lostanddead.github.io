@@ -9,10 +9,10 @@
 
 -   [Setting Up Your Work Environment](.\setting-up-your-work-enviroment "Get Started And Set Things Up!")
 -   Command Line
-    -   [Creating Hello World](.\command-line\creating-hello-world "NYI")
-    -   [Varibles](\vb.net "NYI")
-    -   [If Statements](\vb.net "NYI")
-    -   [Select Statements](\vb.net "NYI")
+    -   [Creating Hello World](.\command-line\creating-hello-world "Create a simple Hello World program")
+    -   [Varibles](.\command-line\varibles "Get used to handling varibles")
+    -   [If Statements](.\command-line\if-statements "Make some decisions")
+    -   [Select Statements](.\command-line\select-statements "Make more choices")
 -   GUI
     -   [Text Boxes](\vb.net "NYI")
     -   [Combo Boxes](\vb.net "NYI")
