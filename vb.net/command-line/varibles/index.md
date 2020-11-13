@@ -108,4 +108,4 @@ End Module
 
 Now lets use these varibles to make some decisions.
 
-[» Next Page (next)](..\if-statements "Next Page")
+[» Next Page (if Statements)](..\if-statements "Next Page")
