@@ -44,7 +44,7 @@ Now try writing this again to print all the numbers from 7 to 25. The answer is 
 <details>
 <summary>Click Me To Show Answer</summary>
 <p>
-<br/>
+Here is the working code. There are others that would work but this for sure does.
 
 ```vb
 public class Order
