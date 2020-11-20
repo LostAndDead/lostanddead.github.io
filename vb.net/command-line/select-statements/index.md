@@ -45,4 +45,4 @@ Remember to hunt Jerry later
 
 Now that we are done with the basics of Visual Basic we can move onto the GUI elements and using the IDE more.
 
-[» Next Page (GUI: Text Boxes)](..\..\gui\text-boxes "Next Page")
+[» Next Page (Loops)](..\if-statements "Next Page")
