@@ -1,9 +1,9 @@
-[« Go Back](..\if-statements "Go Back")
+[« Go Back](..\select-statements "Go Back")
 <br/>
 
 # Loops <!-- omit in toc -->
 
-Loops are a way of repeating specific bits of code until a condition is met or it has been run enough times. There are many types of loops in Visal Basic, we will go over each of them separately.
+Loops are a way of repeating specific bits of code until a condition is met or it has been run enough times. There are many types of loops in Visual Basic, we will go over each of them separately.
 
 - [While](#while)
 - [For](#for)
@@ -46,7 +46,7 @@ Now try writing this again to print all the numbers from 7 to 25. The answer is 
 <p>
 Here is the working code. There are others that would work but this for sure does.
 
-<code>
+<pre>
 public class Order
 Dim x As Integer
 x = 7
@@ -54,7 +54,7 @@ While (x < 26)
     Console.WriteLine(x)
     x += 1
 End While
-</code>
+</pre>
 
 <br/>
 </p>

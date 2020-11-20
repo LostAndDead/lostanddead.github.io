@@ -22,7 +22,7 @@ Here I will go over creating a simple console application that greets you with a
    ![Name And Create](name-and-create.png)
 4. All done!
    <br/>
-   You will have some pre-populated code appear, if you named your project the same as mine then some `Hello World!` code will also apear (A nice little easter egg)
+   You will have some pre-populated code appear, if you named your project the same as mine then some `Hello World!` code will also appear (A nice little easter egg)
    <br/>
    ![Code](code.png)
    <br/>
