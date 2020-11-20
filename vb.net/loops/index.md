@@ -47,13 +47,13 @@ Now try writing this again to print all the numbers from 7 to 25. The answer is 
 
 Here is the working code. There are others that would work but this for sure does.
 
-<code><span class="k">Dim</span> <span class="nv">x</span> <span class="ow">As</span> <span class="kt">Integer</span>
+<pre class="highlight"><code><span class="k">Dim</span> <span class="nv">x</span> <span class="ow">As</span> <span class="kt">Integer</span>
 <span class="n">x</span> <span class="o">=</span> <span class="mi">7</span>
 <span class="k">While</span> <span class="p">(</span><span class="n">x</span> <span class="o">&lt;</span> <span class="mi">26</span><span class="p">)</span>
     <span class="nb">Console</span><span class="p">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
     <span class="n">x</span> <span class="o">+=</span> <span class="mi">1</span>
 <span class="k">End</span> <span class="k">While</span>
-</code>
+</code></pre>
 </p>
 </details>  
 <br/>
