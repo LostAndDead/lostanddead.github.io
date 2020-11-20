@@ -46,7 +46,7 @@ Now try writing this again to print all the numbers from 7 to 25. The answer is 
 <p>
 Here is the working code. There are others that would work but this for sure does.
 
-```vb
+<pre>$
 public class Order
 Dim x As Integer
 x = 7
@@ -54,7 +54,7 @@ While (x < 26)
     Console.WriteLine(x)
     x += 1
 End While
-```
+</pre>
 
 <br/>
 </p>
@@ -68,4 +68,5 @@ End While
 
 ## Nested Loops
 
-[» Next Page (Loops)](..\loops "Next Page")
+|[» Next Page (Loops)](..\loops)|
+|---|
