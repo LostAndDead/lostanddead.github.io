@@ -44,18 +44,16 @@ Now try writing this again to print all the numbers from 7 to 25. The answer is 
 <details>
 <summary>Click Me To Show Answer</summary>
 <p>
+
 Here is the working code. There are others that would work but this for sure does.
 
-<pre>
-public class Order
-Dim x As Integer
-x = 7
-While (x < 26)
-    Console.WriteLine(x)
-    x += 1
-End While
-
-</pre>
+<code><span class="k">Dim</span> <span class="nv">x</span> <span class="ow">As</span> <span class="kt">Integer</span>
+<span class="n">x</span> <span class="o">=</span> <span class="mi">7</span>
+<span class="k">While</span> <span class="p">(</span><span class="n">x</span> <span class="o">&lt;</span> <span class="mi">26</span><span class="p">)</span>
+    <span class="nb">Console</span><span class="p">.</span><span class="n">WriteLine</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+    <span class="n">x</span> <span class="o">+=</span> <span class="mi">1</span>
+<span class="k">End</span> <span class="k">While</span>
+</code>
 </p>
 </details>  
 <br/>
