@@ -3,7 +3,7 @@
 
 # Loops <!-- omit in toc -->
 
-Loops are a way of repeating specific bits of code until a condition is met or it has been run enough times. There are many types of loops in Visal Basic, we will go over each of them seperatly.
+Loops are a way of repeating specific bits of code until a condition is met or it has been run enough times. There are many types of loops in Visal Basic, we will go over each of them separately.
 
 - [While](#while)
 - [For](#for)
@@ -11,6 +11,8 @@ Loops are a way of repeating specific bits of code until a condition is met or i
 - [Do](#do)
 
 ## While
+
+These loops will keep repeating an area of code along as the condition is met
 
 ## For
 
