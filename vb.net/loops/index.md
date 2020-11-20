@@ -44,6 +44,7 @@ Now try writing this again to print all the numbers from 7 to 25. The answer is 
 <details>
 <summary>Click Me To Show Answer</summary>
 <p>
+<br/>
 
 ```vb
 public class Order
@@ -55,6 +56,7 @@ While (x < 26)
 End While
 ```
 
+<br/>
 </p>
 </details>  
 
