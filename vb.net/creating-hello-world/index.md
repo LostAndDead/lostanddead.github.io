@@ -17,7 +17,7 @@ Here I will go over creating a simple console application that greets you with a
    Once you have selected your project type click `Next`
    <br/>
    ![Select Type](select-type.png)
-3. Now name your project `Hello World` (or anything else memorable) and choose where to save it, I recomend leaving this as default. And hit `Create`
+3. Now name your project `Hello World` (or anything else memorable) and choose where to save it, I recommend leaving this as default. And hit `Create`
    <br/>
    ![Name And Create](name-and-create.png)
 4. All done!
@@ -47,6 +47,6 @@ Lets start with the enclosing `Module Program` and `End Module` these define the
 
 To run the program simply press F5 and it will start to compile and run it.
 
-Now that you understand that we can move on to basic varibles and how to use them!
+Now that you understand that we can move on to basic variables and how to use them!
 
-[» Next Page (Varibles)](..\varibles "Next Page")
+[» Next Page (Variables)](..\variables "Next Page")
