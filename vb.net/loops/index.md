@@ -46,6 +46,7 @@ Now try writing this again to print all the numbers from 7 to 25. The answer is 
     <br/>
     Here is the working code. There are others that would work but this for sure does.
     <br/>
+    <br/>
     ```vb
     public class Order
     Dim x As Integer
