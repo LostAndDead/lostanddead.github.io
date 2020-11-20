@@ -40,4 +40,4 @@ Visual Studio is the IDE (Intergrated development enviroment) made by microsoft 
     <br/>
     <br/>
 
-[» Next Page (Creating Hello World)](..\command-line\creating-hello-world "Next Page")
+[» Next Page (Creating Hello World)](..\creating-hello-world "Next Page")
