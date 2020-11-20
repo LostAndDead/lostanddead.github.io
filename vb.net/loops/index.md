@@ -47,15 +47,15 @@ Now try writing this again to print all the numbers from 7 to 25. The answer is 
     Here is the working code. There are others that would work but this for sure does.
     <br/>
     <br/>
-    ```vb
-    public class Order
-    Dim x As Integer
-    x = 7
-    While (x < 26)
-        Console.WriteLine(x)
-        x += 1
-    End While
-    ```
+    ```vb<br/>
+    public class Order<br/>
+    Dim x As Integer<br/>
+    x = 7<br/>
+    While (x < 26)<br/>
+        Console.WriteLine(x)<br/>
+        x += 1<br/>
+    End While<br/>
+    ```<br/>
     <br/>
 </details>  
 <br/>
