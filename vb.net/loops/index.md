@@ -46,7 +46,7 @@ Now try writing this again to print all the numbers from 7 to 25. The answer is 
 <p>
 <br/>
 Here is the working code. There are others that would work but this for sure does.
-
+<!--Yea i know this is jank af, it is the only way i can get it to format in the drop down-->
 <pre class="highlight"><code><span class="k">Dim</span> <span class="nv">x</span> <span class="ow">As</span> <span class="kt">Integer</span>
 <span class="n">x</span> <span class="o">=</span> <span class="mi">7</span>
 <span class="k">While</span> <span class="p">(</span><span class="n">x</span> <span class="o">&lt;</span> <span class="mi">26</span><span class="p">)</span>
@@ -57,6 +57,7 @@ Here is the working code. There are others that would work but this for sure doe
 </p>
 </details>  
 <br/>
+
 ## For
 
 ## For Each
